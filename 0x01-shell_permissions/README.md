@@ -1,1 +1,1 @@
-Writing scripts that manipulate commands for linux permissions.
+Writing scripts that manipulate linux shell permissions commands
